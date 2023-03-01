@@ -1,4 +1,9 @@
 #VIRUS MAKER
+
+First thing download the virus maker zip and done, this was made on replit so yeah, look down here do edit the code
+|
+V
+
 this is a virus maker you can edit the flashing in css/ style.css you can change the colors in there
 
 in index is the main part thats were it triggers it when open you can edit the text were it has !!!
